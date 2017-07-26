@@ -1,0 +1,85 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.78 Arial;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  float: left;
+  margin-left: 10%;
+}
+
+.element {
+  float: left;
+  clear: both;
+}
+
+.image {
+  display: block;
+  float: left;
+  width: 256px;
+  height: auto;
+  margin-top: -57px;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 p {
+  margin-bottom: 1em;
+}
+
+._container {
+  width: 80%;
+  height: 142px;
+  margin-top: 23px;
+}
+
+.container-1 {
+  width: 79.9999999999%;
+  height: 117px;
+  margin-top: -627px;
+}
+
+.element-1 {
+  width: 37.1875%;
+  height: 13px;
+  margin-left: 31.64551%;
+  background-color: rgb(247, 147, 30);
+}
+
+.element-2 {
+  width: 47.5%;
+  height: 10px;
+  margin: 437px 0 0 -70.46387%;
+  background-color: rgb(247, 147, 3);
+}
+
+.element-3 {
+  width: 37.1875%;
+  height: 13px;
+  margin: 29px 0 0 31.61133%;
+  background-color: rgb(247, 147, 30);
+}
+
+.text-1 {
+  clear: both;
+  width: 37.4124999999%;
+  min-height: 25px;
+  margin-left: 31.64551%;
+  font-family: Helvetica;
+  font-size: 1.875em;
+  text-align: center;
+}
+
+.text-2 {
+  position: relative;
+  z-index: 6;
+  width: 80%;
+  min-height: 535px;
+  margin: 26px 0 0 10%;
+  font-size: 1em;
+}
